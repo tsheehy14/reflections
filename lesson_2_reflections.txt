@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 When I run git status I get 'No commits yet' but when I run git commit -m 'First commit'
 I get Initial commits
+
+How is the staging area different from the working directory and the repository? What value
+do you think it offers?
+It acts almost as an in between, working to ensure you don't commit everything at once.
