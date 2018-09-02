@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I run git status I get 'No commits yet' but when I run git commit -m 'First commit'
+I get Initial commits
