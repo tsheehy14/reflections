@@ -8,3 +8,6 @@ So you have full control over the files that you are using/so others can work on
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks involve taking from other repositories on github. Clones involve copying repositories from github to local, branch involves splitting into multiple parts
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This way you have the most up to date working on your local.
